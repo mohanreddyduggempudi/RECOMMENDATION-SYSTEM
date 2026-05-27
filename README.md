@@ -14,8 +14,6 @@
 
 # DESCRIPTION OF TASK-RECOMMENDATION SYSTEM
 
-# DESCRIPTION OF TASK-4 : RECOMMENDATION SYSTEM USING COLLABORATIVE FILTERING
-
 The main objective of this project is to develop a Recommendation System using Collaborative Filtering techniques in Machine Learning. Recommendation systems are intelligent systems that suggest products, movies, songs, or other items to users based on their interests and preferences. These systems are widely used in platforms such as Netflix, Amazon, Spotify, and YouTube to provide personalized recommendations to users.
 
 In this project, a Movie Recommendation System was created using Python programming language along with libraries such as Pandas and Scikit-learn. The recommendation system suggests similar movies based on user rating patterns and similarity calculations. The project demonstrates how machine learning techniques can be applied to recommend items effectively.
@@ -52,3 +50,6 @@ Overall, the Recommendation System was successfully implemented using Collaborat
 
 # Output
 
+<img width="1520" height="685" alt="Image" src="https://github.com/user-attachments/assets/ccceb8f2-1d98-4c32-b699-5c74d04c7099" />
+
+<img width="1565" height="671" alt="Image" src="https://github.com/user-attachments/assets/1e1c737b-6cd7-4a55-ab67-f6d29a80a4b1" />
